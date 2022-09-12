@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UmarInakov
 - 👀 I’m interested in Front-end in web-development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently -
 - 💞️ I’m looking to collaborate on new skills
 - 📫 How to reach me www.behruz00@mail.ru
 
